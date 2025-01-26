@@ -1,6 +1,6 @@
 <p align="center">
-<img src="assets/img/superMario.png" alt="Super Mario">
 </p>
+![cap tela](https://github.com/user-attachments/assets/59f1c735-e52a-41d3-8e96-1168aa290a24)
 
 ## 🎮 Bem-vindo ao meu projeto
 uma recriação nostálgica e interativa do clássico jogo Mario, desenvolvida com HTML, CSS e JavaScript! 🌟
@@ -11,7 +11,7 @@ Este projeto é uma homenagem ao icônico Super Mario, criado com tecnologias we
 
 ## 🛠️ Tecnologias Utilizadas
  - HTML5: Estrutura semântica do jogo.
- - CSS3: Estilização e animações.
+ - CSS: Estilização e animações.
  - JavaScript: Lógica de jogo e interatividade.
 
 ### 📸 Prévia do Jogo
